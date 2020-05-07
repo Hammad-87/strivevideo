@@ -222,19 +222,3 @@ a:hover {
   border-color: #28a745 transparent transparent transparent;
   z-index: 10;
 }
-
-/* input[type="password"] {
-  border: 1px solid red;
-} */
-
-#esempio p {
-  color: white;
-  margin: 0;
-}
-/* #esempio p + input {
-  background-color: red;
-} */
-
-#esempio p + div input[type="password"] {
-  background-color: red;
-}
